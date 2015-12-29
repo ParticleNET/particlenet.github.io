@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "particlenet.github.io", "."
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "59596"
+		SlnRelativePath = "..\particlenet.github.io\"
 	EndProjectSection
 EndProject
 Global
