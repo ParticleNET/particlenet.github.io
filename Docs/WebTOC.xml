@@ -1,40 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="bc6b02ae-fe1d-4ce1-b957-85f2afd2f2f2" Title="Particle" Url="html/N_Particle.htm">
-    <HelpTOCNode Id="142adcdd-f4c0-416c-bab7-9b8a356599e2" Title="Extensions Class" Url="html/T_Particle_Extensions.htm">
-      <HelpTOCNode Id="18e2644b-a66a-46b0-952c-6d7a0a9c2ec1" Title="Extensions Methods" Url="html/Methods_T_Particle_Extensions.htm">
+  <HelpTOCNode Id="63d8478c-eeb4-4ee8-a207-6fe5533f42ae" Title="Particle" Url="html/N_Particle.htm">
+    <HelpTOCNode Id="fd026758-b9ae-46ce-9050-879fdd67d990" Title="Extensions Class" Url="html/T_Particle_Extensions.htm">
+      <HelpTOCNode Id="0889e56f-708b-4b0b-8985-d08fd34048b5" Title="Extensions Methods" Url="html/Methods_T_Particle_Extensions.htm">
         <HelpTOCNode Title="InvokeIfRequired Method " Url="html/M_Particle_Extensions_InvokeIfRequired.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="980d4cd0-81b0-40fa-b03b-07c699bff636" Title="ParticleAuthenticationExeption Class" Url="html/T_Particle_ParticleAuthenticationExeption.htm">
-      <HelpTOCNode Id="6930f02b-a038-45f8-854b-a355625dde7e" Title="ParticleAuthenticationExeption Constructor " Url="html/Overload_Particle_ParticleAuthenticationExeption__ctor.htm">
+    <HelpTOCNode Id="bb6a5498-660a-4340-aa60-0ddcb81b7b58" Title="ParticleAuthenticationExeption Class" Url="html/T_Particle_ParticleAuthenticationExeption.htm">
+      <HelpTOCNode Id="8aee817a-2c91-45d5-b7e7-f0cd50a89988" Title="ParticleAuthenticationExeption Constructor " Url="html/Overload_Particle_ParticleAuthenticationExeption__ctor.htm">
         <HelpTOCNode Title="ParticleAuthenticationExeption Constructor (String)" Url="html/M_Particle_ParticleAuthenticationExeption__ctor.htm" />
         <HelpTOCNode Title="ParticleAuthenticationExeption Constructor (String, Exception)" Url="html/M_Particle_ParticleAuthenticationExeption__ctor_1.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ParticleAuthenticationExeption Properties" Url="html/Properties_T_Particle_ParticleAuthenticationExeption.htm" />
       <HelpTOCNode Title="ParticleAuthenticationExeption Methods" Url="html/Methods_T_Particle_ParticleAuthenticationExeption.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a16321db-2cd8-4f5c-b641-ed78eeaa2052" Title="ParticleBase Class" Url="html/T_Particle_ParticleBase.htm">
+    <HelpTOCNode Id="9f7ac2a1-81ea-4f01-a3fe-a1d1cef018f3" Title="ParticleBase Class" Url="html/T_Particle_ParticleBase.htm">
       <HelpTOCNode Title="ParticleBase Constructor " Url="html/M_Particle_ParticleBase__ctor.htm" />
-      <HelpTOCNode Id="06c0f69b-8fcc-42b9-8482-4bf70490923c" Title="ParticleBase Methods" Url="html/Methods_T_Particle_ParticleBase.htm">
+      <HelpTOCNode Id="c875a781-a733-48fd-a551-ca70a67dc931" Title="ParticleBase Methods" Url="html/Methods_T_Particle_ParticleBase.htm">
         <HelpTOCNode Title="FirePropertyChanged Method " Url="html/M_Particle_ParticleBase_FirePropertyChanged.htm" />
         <HelpTOCNode Title="SetProperty(T) Method " Url="html/M_Particle_ParticleBase_SetProperty__1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d029bd7d-d447-45ae-9c8b-65f5481898aa" Title="ParticleBase Events" Url="html/Events_T_Particle_ParticleBase.htm">
+      <HelpTOCNode Id="710ec61d-558e-4c0e-a25e-5aa18cdd8552" Title="ParticleBase Events" Url="html/Events_T_Particle_ParticleBase.htm">
         <HelpTOCNode Title="PropertyChanged Event" Url="html/E_Particle_ParticleBase_PropertyChanged.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a2aa1efa-a68d-4a89-8d7e-a5db1671ebee" Title="ParticleCloud Class" Url="html/T_Particle_ParticleCloud.htm">
-      <HelpTOCNode Id="75dc9ebd-4691-4898-9cf6-c884ea573b3e" Title="ParticleCloud Constructor " Url="html/Overload_Particle_ParticleCloud__ctor.htm">
+    <HelpTOCNode Id="2490ebb8-bd35-4464-b95d-6ac6c1109b4f" Title="ParticleCloud Class" Url="html/T_Particle_ParticleCloud.htm">
+      <HelpTOCNode Id="3130af18-8f24-43ca-b465-ffcb22f7ec4e" Title="ParticleCloud Constructor " Url="html/Overload_Particle_ParticleCloud__ctor.htm">
         <HelpTOCNode Title="ParticleCloud Constructor " Url="html/M_Particle_ParticleCloud__ctor.htm" />
         <HelpTOCNode Title="ParticleCloud Constructor (Uri)" Url="html/M_Particle_ParticleCloud__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="56b0e7a3-d389-4b00-9759-f248a14ff846" Title="ParticleCloud Properties" Url="html/Properties_T_Particle_ParticleCloud.htm">
+      <HelpTOCNode Id="f3597b9b-23f0-447c-ab3b-dd2690208f7b" Title="ParticleCloud Properties" Url="html/Properties_T_Particle_ParticleCloud.htm">
+        <HelpTOCNode Title="AccessToken Property " Url="html/P_Particle_ParticleCloud_AccessToken.htm" />
         <HelpTOCNode Title="IsAuthenticated Property " Url="html/P_Particle_ParticleCloud_IsAuthenticated.htm" />
         <HelpTOCNode Title="SyncContext Property " Url="html/P_Particle_ParticleCloud_SyncContext.htm" />
+        <HelpTOCNode Title="YourEventUri Property " Url="html/P_Particle_ParticleCloud_YourEventUri.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="bc2eb270-c22c-45cb-908d-4bb236672d77" Title="ParticleCloud Methods" Url="html/Methods_T_Particle_ParticleCloud.htm">
+      <HelpTOCNode Id="c3bcdade-c18d-4afc-b56a-29ced2f74e52" Title="ParticleCloud Methods" Url="html/Methods_T_Particle_ParticleCloud.htm">
         <HelpTOCNode Title="ClaimDeviceAsync Method " Url="html/M_Particle_ParticleCloud_ClaimDeviceAsync.htm" />
         <HelpTOCNode Title="Dispose Method " Url="html/M_Particle_ParticleCloud_Dispose.htm" />
         <HelpTOCNode Title="GetDevicesAsync Method " Url="html/M_Particle_ParticleCloud_GetDevicesAsync.htm" />
@@ -46,6 +48,7 @@
         <HelpTOCNode Title="MakeGetRequestWithAuthTestAsync Method " Url="html/M_Particle_ParticleCloud_MakeGetRequestWithAuthTestAsync.htm" />
         <HelpTOCNode Title="MakePostRequestAsync Method " Url="html/M_Particle_ParticleCloud_MakePostRequestAsync.htm" />
         <HelpTOCNode Title="MakePostRequestWithAuthTestAsync Method " Url="html/M_Particle_ParticleCloud_MakePostRequestWithAuthTestAsync.htm" />
+        <HelpTOCNode Title="MakePostRequestWithoutAuthAsync Method " Url="html/M_Particle_ParticleCloud_MakePostRequestWithoutAuthAsync.htm" />
         <HelpTOCNode Title="MakePutRequestAsync Method " Url="html/M_Particle_ParticleCloud_MakePutRequestAsync.htm" />
         <HelpTOCNode Title="MakePutRequestWithAuthTestAsync Method " Url="html/M_Particle_ParticleCloud_MakePutRequestWithAuthTestAsync.htm" />
         <HelpTOCNode Title="RefreshTokenAsync Method " Url="html/M_Particle_ParticleCloud_RefreshTokenAsync.htm" />
@@ -54,24 +57,31 @@
       </HelpTOCNode>
       <HelpTOCNode Title="ParticleCloud Events" Url="html/Events_T_Particle_ParticleCloud.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="56953307-3da0-4828-85a1-8286a1614ad4" Title="ParticleDevice Class" Url="html/T_Particle_ParticleDevice.htm">
+    <HelpTOCNode Id="d742cb13-7e9b-482d-9993-7bad656dd3be" Title="ParticleDevice Class" Url="html/T_Particle_ParticleDevice.htm">
       <HelpTOCNode Title="ParticleDevice Constructor " Url="html/M_Particle_ParticleDevice__ctor.htm" />
-      <HelpTOCNode Id="c0350dac-6a49-4052-81c4-8e25c41f758f" Title="ParticleDevice Properties" Url="html/Properties_T_Particle_ParticleDevice.htm">
+      <HelpTOCNode Id="fb809698-8d6b-47db-9456-a2fcb812cb32" Title="ParticleDevice Properties" Url="html/Properties_T_Particle_ParticleDevice.htm">
+        <HelpTOCNode Title="Cellular Property " Url="html/P_Particle_ParticleDevice_Cellular.htm" />
         <HelpTOCNode Title="Connected Property " Url="html/P_Particle_ParticleDevice_Connected.htm" />
+        <HelpTOCNode Title="CurrentBuildTarget Property " Url="html/P_Particle_ParticleDevice_CurrentBuildTarget.htm" />
         <HelpTOCNode Title="DeviceType Property " Url="html/P_Particle_ParticleDevice_DeviceType.htm" />
         <HelpTOCNode Title="Functions Property " Url="html/P_Particle_ParticleDevice_Functions.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_Particle_ParticleDevice_Id.htm" />
+        <HelpTOCNode Title="IMEI Property " Url="html/P_Particle_ParticleDevice_IMEI.htm" />
         <HelpTOCNode Title="IsRefreshing Property " Url="html/P_Particle_ParticleDevice_IsRefreshing.htm" />
         <HelpTOCNode Title="LastApp Property " Url="html/P_Particle_ParticleDevice_LastApp.htm" />
         <HelpTOCNode Title="LastHeard Property " Url="html/P_Particle_ParticleDevice_LastHeard.htm" />
+        <HelpTOCNode Title="LastICCID Property " Url="html/P_Particle_ParticleDevice_LastICCID.htm" />
         <HelpTOCNode Title="LastIPAddress Property " Url="html/P_Particle_ParticleDevice_LastIPAddress.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_Particle_ParticleDevice_Name.htm" />
+        <HelpTOCNode Title="PlatformId Property " Url="html/P_Particle_ParticleDevice_PlatformId.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P_Particle_ParticleDevice_Status.htm" />
         <HelpTOCNode Title="Variables Property " Url="html/P_Particle_ParticleDevice_Variables.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0de7eb62-a076-476a-933e-6b16012eef6c" Title="ParticleDevice Methods" Url="html/Methods_T_Particle_ParticleDevice.htm">
+      <HelpTOCNode Id="f784098d-e2de-40a0-8285-3d3fd42ac7d3" Title="ParticleDevice Methods" Url="html/Methods_T_Particle_ParticleDevice.htm">
         <HelpTOCNode Title="CallFunctionAsync Method " Url="html/M_Particle_ParticleDevice_CallFunctionAsync.htm" />
+        <HelpTOCNode Title="FlashExampleAppAsync Method " Url="html/M_Particle_ParticleDevice_FlashExampleAppAsync.htm" />
         <HelpTOCNode Title="FlashKnownAppAsync Method " Url="html/M_Particle_ParticleDevice_FlashKnownAppAsync.htm" />
-        <HelpTOCNode Id="892aafc1-2718-4388-bc1f-182f527b5ffb" Title="GetVariableValueAsync Method " Url="html/Overload_Particle_ParticleDevice_GetVariableValueAsync.htm">
+        <HelpTOCNode Id="fb847bf4-c9e4-4c4a-8190-373335fcb8b1" Title="GetVariableValueAsync Method " Url="html/Overload_Particle_ParticleDevice_GetVariableValueAsync.htm">
           <HelpTOCNode Title="GetVariableValueAsync Method (String)" Url="html/M_Particle_ParticleDevice_GetVariableValueAsync_1.htm" />
           <HelpTOCNode Title="GetVariableValueAsync Method (Variable)" Url="html/M_Particle_ParticleDevice_GetVariableValueAsync.htm" />
         </HelpTOCNode>
@@ -85,29 +95,70 @@
       <HelpTOCNode Title="ParticleDevice Events" Url="html/Events_T_Particle_ParticleDevice.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="ParticleDeviceType Enumeration" Url="html/T_Particle_ParticleDeviceType.htm" />
-    <HelpTOCNode Id="86a0b7b8-4dd0-4188-88ea-2574246fcd5c" Title="ParticleException Class" Url="html/T_Particle_ParticleException.htm">
-      <HelpTOCNode Id="962b4b48-7bb7-430e-b6eb-d76e47ed1025" Title="ParticleException Constructor " Url="html/Overload_Particle_ParticleException__ctor.htm">
+    <HelpTOCNode Id="475b48d9-136a-402c-9b9d-e62451050628" Title="ParticleEventData Class" Url="html/T_Particle_ParticleEventData.htm">
+      <HelpTOCNode Title="ParticleEventData Constructor " Url="html/M_Particle_ParticleEventData__ctor.htm" />
+      <HelpTOCNode Id="c2f72052-1dc3-437d-bce6-1cce58bce298" Title="ParticleEventData Properties" Url="html/Properties_T_Particle_ParticleEventData.htm">
+        <HelpTOCNode Title="CoreId Property " Url="html/P_Particle_ParticleEventData_CoreId.htm" />
+        <HelpTOCNode Title="Data Property " Url="html/P_Particle_ParticleEventData_Data.htm" />
+        <HelpTOCNode Title="PublishedAt Property " Url="html/P_Particle_ParticleEventData_PublishedAt.htm" />
+        <HelpTOCNode Title="TimeToLive Property " Url="html/P_Particle_ParticleEventData_TimeToLive.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1b384cba-a698-440d-a14d-ac2620e6a689" Title="ParticleEventData Methods" Url="html/Methods_T_Particle_ParticleEventData.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/M_Particle_ParticleEventData_ToString.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7219d6dd-c5ac-44fd-b4aa-70e9909793fa" Title="ParticleEventManager Class" Url="html/T_Particle_ParticleEventManager.htm">
+      <HelpTOCNode Id="f2a1bc99-3bda-49d6-94b4-8194cae0db3f" Title="ParticleEventManager Constructor " Url="html/Overload_Particle_ParticleEventManager__ctor.htm">
+        <HelpTOCNode Title="ParticleEventManager Constructor " Url="html/M_Particle_ParticleEventManager__ctor.htm" />
+        <HelpTOCNode Title="ParticleEventManager Constructor (Uri, String)" Url="html/M_Particle_ParticleEventManager__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c81b3a1f-d726-4268-b686-4f28f543acf8" Title="ParticleEventManager Properties" Url="html/Properties_T_Particle_ParticleEventManager.htm">
+        <HelpTOCNode Title="IsRunning Property " Url="html/P_Particle_ParticleEventManager_IsRunning.htm" />
+        <HelpTOCNode Title="ReadTimeout Property " Url="html/P_Particle_ParticleEventManager_ReadTimeout.htm" />
+        <HelpTOCNode Title="ReconnectDelay Property " Url="html/P_Particle_ParticleEventManager_ReconnectDelay.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="119000d2-7862-4bd3-a089-00593683d58e" Title="ParticleEventManager Methods" Url="html/Methods_T_Particle_ParticleEventManager.htm">
+        <HelpTOCNode Title="ConnectToClient Method " Url="html/M_Particle_ParticleEventManager_ConnectToClient.htm" />
+        <HelpTOCNode Title="fireEvent Method " Url="html/M_Particle_ParticleEventManager_fireEvent.htm" />
+        <HelpTOCNode Title="ListensToStreamAsync Method " Url="html/M_Particle_ParticleEventManager_ListensToStreamAsync.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/M_Particle_ParticleEventManager_Start.htm" />
+        <HelpTOCNode Title="Stop Method " Url="html/M_Particle_ParticleEventManager_Stop.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="28143ed7-7be2-4b55-bd61-5156524244d6" Title="ParticleEventManager Events" Url="html/Events_T_Particle_ParticleEventManager.htm">
+        <HelpTOCNode Title="Closed Event" Url="html/E_Particle_ParticleEventManager_Closed.htm" />
+        <HelpTOCNode Title="Connected Event" Url="html/E_Particle_ParticleEventManager_Connected.htm" />
+        <HelpTOCNode Title="Error Event" Url="html/E_Particle_ParticleEventManager_Error.htm" />
+        <HelpTOCNode Title="Events Event" Url="html/E_Particle_ParticleEventManager_Events.htm" />
+        <HelpTOCNode Title="Reconnected Event" Url="html/E_Particle_ParticleEventManager_Reconnected.htm" />
+        <HelpTOCNode Title="Reconnecting Event" Url="html/E_Particle_ParticleEventManager_Reconnecting.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f8ff48c5-c685-4a6e-94a3-6ea71e724ad2" Title="ParticleEventManager Fields" Url="html/Fields_T_Particle_ParticleEventManager.htm">
+        <HelpTOCNode Title="_stop Field" Url="html/F_Particle_ParticleEventManager__stop.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="50777a3a-cff8-4cdb-8831-f002cae7c82f" Title="ParticleException Class" Url="html/T_Particle_ParticleException.htm">
+      <HelpTOCNode Id="899f581a-8e9d-4bbd-8fb6-1b1a4359ebe2" Title="ParticleException Constructor " Url="html/Overload_Particle_ParticleException__ctor.htm">
         <HelpTOCNode Title="ParticleException Constructor (String)" Url="html/M_Particle_ParticleException__ctor.htm" />
         <HelpTOCNode Title="ParticleException Constructor (String, Exception)" Url="html/M_Particle_ParticleException__ctor_1.htm" />
         <HelpTOCNode Title="ParticleException Constructor (String, HttpStatusCode, String, String)" Url="html/M_Particle_ParticleException__ctor_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8b76e8a1-0582-43a6-854f-89c8031014bc" Title="ParticleException Properties" Url="html/Properties_T_Particle_ParticleException.htm">
+      <HelpTOCNode Id="aa4199a1-f251-4351-bd63-4254b1bb4b4b" Title="ParticleException Properties" Url="html/Properties_T_Particle_ParticleException.htm">
         <HelpTOCNode Title="Error Property " Url="html/P_Particle_ParticleException_Error.htm" />
         <HelpTOCNode Title="ErrorDescription Property " Url="html/P_Particle_ParticleException_ErrorDescription.htm" />
         <HelpTOCNode Title="Status Property " Url="html/P_Particle_ParticleException_Status.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ParticleException Methods" Url="html/Methods_T_Particle_ParticleException.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="42044b69-1d4c-45de-b48e-82de13a80ea5" Title="RequestResponse Class" Url="html/T_Particle_RequestResponse.htm">
+    <HelpTOCNode Id="f03b551f-1bd8-4f4c-aa26-4d03e6761259" Title="RequestResponse Class" Url="html/T_Particle_RequestResponse.htm">
       <HelpTOCNode Title="RequestResponse Constructor " Url="html/M_Particle_RequestResponse__ctor.htm" />
-      <HelpTOCNode Id="dce10885-433a-4484-b3d6-c54e09a4f49d" Title="RequestResponse Properties" Url="html/Properties_T_Particle_RequestResponse.htm">
+      <HelpTOCNode Id="121dbf8d-bbd3-4a95-b7ca-03c6f994482a" Title="RequestResponse Properties" Url="html/Properties_T_Particle_RequestResponse.htm">
         <HelpTOCNode Title="Exception Property " Url="html/P_Particle_RequestResponse_Exception.htm" />
         <HelpTOCNode Title="Response Property " Url="html/P_Particle_RequestResponse_Response.htm" />
         <HelpTOCNode Title="StatusCode Property " Url="html/P_Particle_RequestResponse_StatusCode.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d4ea5b54-1d25-41fc-ad91-073569f662f6" Title="RequestResponse Methods" Url="html/Methods_T_Particle_RequestResponse.htm">
+      <HelpTOCNode Id="d18085c9-0a1a-4c14-918f-a696190d2242" Title="RequestResponse Methods" Url="html/Methods_T_Particle_RequestResponse.htm">
         <HelpTOCNode Title="AsParticleException Method " Url="html/M_Particle_RequestResponse_AsParticleException.htm" />
-        <HelpTOCNode Id="74f62eb6-04e2-4b2f-ade9-9fb63e1648e0" Title="AsResult Method " Url="html/Overload_Particle_RequestResponse_AsResult.htm">
+        <HelpTOCNode Id="a9d9c5b5-8065-4e66-a2c0-0e76d533bfd0" Title="AsResult Method " Url="html/Overload_Particle_RequestResponse_AsResult.htm">
           <HelpTOCNode Title="AsResult Method " Url="html/M_Particle_RequestResponse_AsResult.htm" />
           <HelpTOCNode Title="AsResult(T) Method " Url="html/M_Particle_RequestResponse_AsResult__1.htm" />
           <HelpTOCNode Title="AsResult Method (Boolean)" Url="html/M_Particle_RequestResponse_AsResult_1.htm" />
@@ -115,12 +166,12 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5a0b7f77-a2d5-44a2-8d4c-b51226713fec" Title="Result Class" Url="html/T_Particle_Result.htm">
-      <HelpTOCNode Id="e6f3e50b-5e02-49a3-9237-657363dfbebb" Title="Result Constructor " Url="html/Overload_Particle_Result__ctor.htm">
+    <HelpTOCNode Id="c6fac746-313d-4b59-a195-9212938177ea" Title="Result Class" Url="html/T_Particle_Result.htm">
+      <HelpTOCNode Id="391e43ad-876a-49d0-85ce-5201cc0e12d1" Title="Result Constructor " Url="html/Overload_Particle_Result__ctor.htm">
         <HelpTOCNode Title="Result Constructor " Url="html/M_Particle_Result__ctor.htm" />
         <HelpTOCNode Title="Result Constructor (Boolean)" Url="html/M_Particle_Result__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0c9edb70-c1a3-4a03-836b-613eafad7f54" Title="Result Properties" Url="html/Properties_T_Particle_Result.htm">
+      <HelpTOCNode Id="f2761255-7fa0-41eb-83c1-eaa895cbef4c" Title="Result Properties" Url="html/Properties_T_Particle_Result.htm">
         <HelpTOCNode Title="Error Property " Url="html/P_Particle_Result_Error.htm" />
         <HelpTOCNode Title="ErrorDescription Property " Url="html/P_Particle_Result_ErrorDescription.htm" />
         <HelpTOCNode Title="Errors Property " Url="html/P_Particle_Result_Errors.htm" />
@@ -132,29 +183,37 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Result Methods" Url="html/Methods_T_Particle_Result.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="77f6c5ec-c72b-457f-b165-f8428d703e26" Title="Result(T) Class" Url="html/T_Particle_Result_1.htm">
-      <HelpTOCNode Id="86006a33-d334-42e3-9dbc-680755055b3b" Title="Result(T) Constructor " Url="html/Overload_Particle_Result_1__ctor.htm">
+    <HelpTOCNode Id="523c393b-68e6-4128-be64-a77de85e7470" Title="Result(T) Class" Url="html/T_Particle_Result_1.htm">
+      <HelpTOCNode Id="16be6820-11e5-4b51-9791-5015f1267587" Title="Result(T) Constructor " Url="html/Overload_Particle_Result_1__ctor.htm">
         <HelpTOCNode Title="Result(T) Constructor " Url="html/M_Particle_Result_1__ctor.htm" />
         <HelpTOCNode Title="Result(T) Constructor (Boolean)" Url="html/M_Particle_Result_1__ctor_1.htm" />
         <HelpTOCNode Title="Result(T) Constructor (Boolean, T)" Url="html/M_Particle_Result_1__ctor_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2a447234-b8c7-43cd-8669-e9e05d5b5fc9" Title="Result(T) Properties" Url="html/Properties_T_Particle_Result_1.htm">
+      <HelpTOCNode Id="254c5713-0812-4a28-a456-7e0214cfd90b" Title="Result(T) Properties" Url="html/Properties_T_Particle_Result_1.htm">
         <HelpTOCNode Title="Data Property " Url="html/P_Particle_Result_1_Data.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Result(T) Methods" Url="html/Methods_T_Particle_Result_1.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c86d56c2-591c-417e-9ef0-64f8d6c505f8" Title="Variable Class" Url="html/T_Particle_Variable.htm">
+    <HelpTOCNode Id="09c2f8aa-3dd3-4b94-9099-e2f0d0f0a08e" Title="Variable Class" Url="html/T_Particle_Variable.htm">
       <HelpTOCNode Title="Variable Constructor " Url="html/M_Particle_Variable__ctor.htm" />
-      <HelpTOCNode Id="d1093e35-cdf7-4116-8976-3496a7036d5b" Title="Variable Properties" Url="html/Properties_T_Particle_Variable.htm">
+      <HelpTOCNode Id="3e68262c-c60a-42b0-a43f-c5965818799e" Title="Variable Properties" Url="html/Properties_T_Particle_Variable.htm">
         <HelpTOCNode Title="Name Property " Url="html/P_Particle_Variable_Name.htm" />
         <HelpTOCNode Title="Type Property " Url="html/P_Particle_Variable_Type.htm" />
         <HelpTOCNode Title="Value Property " Url="html/P_Particle_Variable_Value.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1bf150a3-8408-46a6-8d5e-f5ff3c38ba09" Title="Variable Methods" Url="html/Methods_T_Particle_Variable.htm">
+      <HelpTOCNode Id="756a1535-4aa2-4c8f-b9f5-26515bb47d95" Title="Variable Methods" Url="html/Methods_T_Particle_Variable.htm">
         <HelpTOCNode Title="RefreshValueAsync Method " Url="html/M_Particle_Variable_RefreshValueAsync.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Variable Events" Url="html/Events_T_Particle_Variable.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="VariableType Enumeration" Url="html/T_Particle_VariableType.htm" />
+    <HelpTOCNode Id="79b41203-bcb0-4176-9e20-70c974d84473" Title="WebEventArgs Class" Url="html/T_Particle_WebEventArgs.htm">
+      <HelpTOCNode Title="WebEventArgs Constructor " Url="html/M_Particle_WebEventArgs__ctor.htm" />
+      <HelpTOCNode Id="d2d58a2d-2a48-4d88-9f86-f1acf1ba40ea" Title="WebEventArgs Properties" Url="html/Properties_T_Particle_WebEventArgs.htm">
+        <HelpTOCNode Title="Data Property " Url="html/P_Particle_WebEventArgs_Data.htm" />
+        <HelpTOCNode Title="Event Property " Url="html/P_Particle_WebEventArgs_Event.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="WebEventArgs Methods" Url="html/Methods_T_Particle_WebEventArgs.htm" />
+    </HelpTOCNode>
   </HelpTOCNode>
 </HelpTOC>

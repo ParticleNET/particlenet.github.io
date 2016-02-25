@@ -1,16 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="AccessToken property" Url="html/P_Particle_ParticleCloud_AccessToken.htm" />
   <HelpKINode Title="AsParticleException method" Url="html/M_Particle_RequestResponse_AsParticleException.htm" />
   <HelpKINode Title="AsResult method" Url="html/Overload_Particle_RequestResponse_AsResult.htm" />
   <HelpKINode Title="CallFunctionAsync method" Url="html/M_Particle_ParticleDevice_CallFunctionAsync.htm" />
+  <HelpKINode Title="Cellular property" Url="html/P_Particle_ParticleDevice_Cellular.htm" />
   <HelpKINode Title="ClaimDeviceAsync method" Url="html/M_Particle_ParticleCloud_ClaimDeviceAsync.htm" />
+  <HelpKINode Title="Closed event" Url="html/E_Particle_ParticleEventManager_Closed.htm" />
+  <HelpKINode Title="Connected event" Url="html/E_Particle_ParticleEventManager_Connected.htm" />
   <HelpKINode Title="Connected property" Url="html/P_Particle_ParticleDevice_Connected.htm" />
+  <HelpKINode Title="ConnectToClient method" Url="html/M_Particle_ParticleEventManager_ConnectToClient.htm" />
   <HelpKINode Title="Core enumeration member" Url="html/T_Particle_ParticleDeviceType.htm" />
-  <HelpKINode Title="Data property" Url="html/P_Particle_Result_1_Data.htm" />
+  <HelpKINode Title="CoreId property" Url="html/P_Particle_ParticleEventData_CoreId.htm" />
+  <HelpKINode Title="CurrentBuildTarget property" Url="html/P_Particle_ParticleDevice_CurrentBuildTarget.htm" />
+  <HelpKINode Title="Data property">
+    <HelpKINode Title="ParticleEventData.Data Property " Url="html/P_Particle_ParticleEventData_Data.htm" />
+    <HelpKINode Title="Result(T).Data Property " Url="html/P_Particle_Result_1_Data.htm" />
+    <HelpKINode Title="WebEventArgs.Data Property " Url="html/P_Particle_WebEventArgs_Data.htm" />
+  </HelpKINode>
   <HelpKINode Title="DeviceType property" Url="html/P_Particle_ParticleDevice_DeviceType.htm" />
   <HelpKINode Title="Dispose method" Url="html/M_Particle_ParticleCloud_Dispose.htm" />
   <HelpKINode Title="Double enumeration member" Url="html/T_Particle_VariableType.htm" />
   <HelpKINode Title="Electron enumeration member" Url="html/T_Particle_ParticleDeviceType.htm" />
+  <HelpKINode Title="Error event" Url="html/E_Particle_ParticleEventManager_Error.htm" />
   <HelpKINode Title="Error property">
     <HelpKINode Title="ParticleException.Error Property " Url="html/P_Particle_ParticleException_Error.htm" />
     <HelpKINode Title="Result.Error Property " Url="html/P_Particle_Result_Error.htm" />
@@ -20,6 +32,8 @@
     <HelpKINode Title="Result.ErrorDescription Property " Url="html/P_Particle_Result_ErrorDescription.htm" />
   </HelpKINode>
   <HelpKINode Title="Errors property" Url="html/P_Particle_Result_Errors.htm" />
+  <HelpKINode Title="Event property" Url="html/P_Particle_WebEventArgs_Event.htm" />
+  <HelpKINode Title="Events event" Url="html/E_Particle_ParticleEventManager_Events.htm" />
   <HelpKINode Title="Exception property">
     <HelpKINode Title="RequestResponse.Exception Property " Url="html/P_Particle_RequestResponse_Exception.htm" />
     <HelpKINode Title="Result.Exception Property " Url="html/P_Particle_Result_Exception.htm" />
@@ -30,20 +44,26 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Particle_Extensions.htm" />
   </HelpKINode>
   <HelpKINode Title="Extensions.InvokeIfRequired method" Url="html/M_Particle_Extensions_InvokeIfRequired.htm" />
+  <HelpKINode Title="fireEvent method" Url="html/M_Particle_ParticleEventManager_fireEvent.htm" />
   <HelpKINode Title="FirePropertyChanged method" Url="html/M_Particle_ParticleBase_FirePropertyChanged.htm" />
+  <HelpKINode Title="FlashExampleAppAsync method" Url="html/M_Particle_ParticleDevice_FlashExampleAppAsync.htm" />
   <HelpKINode Title="FlashKnownAppAsync method" Url="html/M_Particle_ParticleDevice_FlashKnownAppAsync.htm" />
   <HelpKINode Title="Functions property" Url="html/P_Particle_ParticleDevice_Functions.htm" />
   <HelpKINode Title="GetDevicesAsync method" Url="html/M_Particle_ParticleCloud_GetDevicesAsync.htm" />
   <HelpKINode Title="GetVariableValueAsync method" Url="html/Overload_Particle_ParticleDevice_GetVariableValueAsync.htm" />
   <HelpKINode Title="Id property" Url="html/P_Particle_ParticleDevice_Id.htm" />
+  <HelpKINode Title="IMEI property" Url="html/P_Particle_ParticleDevice_IMEI.htm" />
   <HelpKINode Title="Info property" Url="html/P_Particle_Result_Info.htm" />
   <HelpKINode Title="Int enumeration member" Url="html/T_Particle_VariableType.htm" />
   <HelpKINode Title="InvokeIfRequired method" Url="html/M_Particle_Extensions_InvokeIfRequired.htm" />
   <HelpKINode Title="IsAuthenticated property" Url="html/P_Particle_ParticleCloud_IsAuthenticated.htm" />
   <HelpKINode Title="IsRefreshing property" Url="html/P_Particle_ParticleDevice_IsRefreshing.htm" />
+  <HelpKINode Title="IsRunning property" Url="html/P_Particle_ParticleEventManager_IsRunning.htm" />
   <HelpKINode Title="LastApp property" Url="html/P_Particle_ParticleDevice_LastApp.htm" />
   <HelpKINode Title="LastHeard property" Url="html/P_Particle_ParticleDevice_LastHeard.htm" />
+  <HelpKINode Title="LastICCID property" Url="html/P_Particle_ParticleDevice_LastICCID.htm" />
   <HelpKINode Title="LastIPAddress property" Url="html/P_Particle_ParticleDevice_LastIPAddress.htm" />
+  <HelpKINode Title="ListensToStreamAsync method" Url="html/M_Particle_ParticleEventManager_ListensToStreamAsync.htm" />
   <HelpKINode Title="LoginWithUserAsync method" Url="html/M_Particle_ParticleCloud_LoginWithUserAsync.htm" />
   <HelpKINode Title="Logout method" Url="html/M_Particle_ParticleCloud_Logout.htm" />
   <HelpKINode Title="MakeDeleteRequestAsync method" Url="html/M_Particle_ParticleCloud_MakeDeleteRequestAsync.htm" />
@@ -52,6 +72,7 @@
   <HelpKINode Title="MakeGetRequestWithAuthTestAsync method" Url="html/M_Particle_ParticleCloud_MakeGetRequestWithAuthTestAsync.htm" />
   <HelpKINode Title="MakePostRequestAsync method" Url="html/M_Particle_ParticleCloud_MakePostRequestAsync.htm" />
   <HelpKINode Title="MakePostRequestWithAuthTestAsync method" Url="html/M_Particle_ParticleCloud_MakePostRequestWithAuthTestAsync.htm" />
+  <HelpKINode Title="MakePostRequestWithoutAuthAsync method" Url="html/M_Particle_ParticleCloud_MakePostRequestWithoutAuthAsync.htm" />
   <HelpKINode Title="MakePutRequestAsync method" Url="html/M_Particle_ParticleCloud_MakePutRequestAsync.htm" />
   <HelpKINode Title="MakePutRequestWithAuthTestAsync method" Url="html/M_Particle_ParticleCloud_MakePutRequestWithAuthTestAsync.htm" />
   <HelpKINode Title="Message property" Url="html/P_Particle_Result_Message.htm" />
@@ -69,6 +90,8 @@
   <HelpKINode Title="Particle.ParticleCloud class" Url="html/T_Particle_ParticleCloud.htm" />
   <HelpKINode Title="Particle.ParticleDevice class" Url="html/T_Particle_ParticleDevice.htm" />
   <HelpKINode Title="Particle.ParticleDeviceType enumeration" Url="html/T_Particle_ParticleDeviceType.htm" />
+  <HelpKINode Title="Particle.ParticleEventData class" Url="html/T_Particle_ParticleEventData.htm" />
+  <HelpKINode Title="Particle.ParticleEventManager class" Url="html/T_Particle_ParticleEventManager.htm" />
   <HelpKINode Title="Particle.ParticleException class" Url="html/T_Particle_ParticleException.htm" />
   <HelpKINode Title="Particle.RequestResponse class" Url="html/T_Particle_RequestResponse.htm" />
   <HelpKINode Title="Particle.Result class" Url="html/T_Particle_Result.htm" />
@@ -76,6 +99,7 @@
   <HelpKINode Title="Particle.Result&lt;T&gt; class" Url="html/T_Particle_Result_1.htm" />
   <HelpKINode Title="Particle.Variable class" Url="html/T_Particle_Variable.htm" />
   <HelpKINode Title="Particle.VariableType enumeration" Url="html/T_Particle_VariableType.htm" />
+  <HelpKINode Title="Particle.WebEventArgs class" Url="html/T_Particle_WebEventArgs.htm" />
   <HelpKINode Title="ParticleAuthenticationExeption class">
     <HelpKINode Title="ParticleAuthenticationExeption Class" Url="html/T_Particle_ParticleAuthenticationExeption.htm" />
     <HelpKINode Title="about ParticleAuthenticationExeption class" Url="html/T_Particle_ParticleAuthenticationExeption.htm" />
@@ -104,6 +128,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Particle_ParticleCloud.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Particle_ParticleCloud.htm" />
   </HelpKINode>
+  <HelpKINode Title="ParticleCloud.AccessToken property" Url="html/P_Particle_ParticleCloud_AccessToken.htm" />
   <HelpKINode Title="ParticleCloud.ClaimDeviceAsync method" Url="html/M_Particle_ParticleCloud_ClaimDeviceAsync.htm" />
   <HelpKINode Title="ParticleCloud.Dispose method" Url="html/M_Particle_ParticleCloud_Dispose.htm" />
   <HelpKINode Title="ParticleCloud.GetDevicesAsync method" Url="html/M_Particle_ParticleCloud_GetDevicesAsync.htm" />
@@ -116,6 +141,7 @@
   <HelpKINode Title="ParticleCloud.MakeGetRequestWithAuthTestAsync method" Url="html/M_Particle_ParticleCloud_MakeGetRequestWithAuthTestAsync.htm" />
   <HelpKINode Title="ParticleCloud.MakePostRequestAsync method" Url="html/M_Particle_ParticleCloud_MakePostRequestAsync.htm" />
   <HelpKINode Title="ParticleCloud.MakePostRequestWithAuthTestAsync method" Url="html/M_Particle_ParticleCloud_MakePostRequestWithAuthTestAsync.htm" />
+  <HelpKINode Title="ParticleCloud.MakePostRequestWithoutAuthAsync method" Url="html/M_Particle_ParticleCloud_MakePostRequestWithoutAuthAsync.htm" />
   <HelpKINode Title="ParticleCloud.MakePutRequestAsync method" Url="html/M_Particle_ParticleCloud_MakePutRequestAsync.htm" />
   <HelpKINode Title="ParticleCloud.MakePutRequestWithAuthTestAsync method" Url="html/M_Particle_ParticleCloud_MakePutRequestWithAuthTestAsync.htm" />
   <HelpKINode Title="ParticleCloud.ParticleCloud constructor" Url="html/Overload_Particle_ParticleCloud__ctor.htm" />
@@ -123,6 +149,7 @@
   <HelpKINode Title="ParticleCloud.RequestPasswordResetAsync method" Url="html/M_Particle_ParticleCloud_RequestPasswordResetAsync.htm" />
   <HelpKINode Title="ParticleCloud.SignupWithUserAsync method" Url="html/M_Particle_ParticleCloud_SignupWithUserAsync.htm" />
   <HelpKINode Title="ParticleCloud.SyncContext property" Url="html/P_Particle_ParticleCloud_SyncContext.htm" />
+  <HelpKINode Title="ParticleCloud.YourEventUri property" Url="html/P_Particle_ParticleCloud_YourEventUri.htm" />
   <HelpKINode Title="ParticleDevice class">
     <HelpKINode Title="ParticleDevice Class" Url="html/T_Particle_ParticleDevice.htm" />
     <HelpKINode Title="about ParticleDevice class" Url="html/T_Particle_ParticleDevice.htm" />
@@ -132,26 +159,71 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Particle_ParticleDevice.htm" />
   </HelpKINode>
   <HelpKINode Title="ParticleDevice.CallFunctionAsync method" Url="html/M_Particle_ParticleDevice_CallFunctionAsync.htm" />
+  <HelpKINode Title="ParticleDevice.Cellular property" Url="html/P_Particle_ParticleDevice_Cellular.htm" />
   <HelpKINode Title="ParticleDevice.Connected property" Url="html/P_Particle_ParticleDevice_Connected.htm" />
+  <HelpKINode Title="ParticleDevice.CurrentBuildTarget property" Url="html/P_Particle_ParticleDevice_CurrentBuildTarget.htm" />
   <HelpKINode Title="ParticleDevice.DeviceType property" Url="html/P_Particle_ParticleDevice_DeviceType.htm" />
+  <HelpKINode Title="ParticleDevice.FlashExampleAppAsync method" Url="html/M_Particle_ParticleDevice_FlashExampleAppAsync.htm" />
   <HelpKINode Title="ParticleDevice.FlashKnownAppAsync method" Url="html/M_Particle_ParticleDevice_FlashKnownAppAsync.htm" />
   <HelpKINode Title="ParticleDevice.Functions property" Url="html/P_Particle_ParticleDevice_Functions.htm" />
   <HelpKINode Title="ParticleDevice.GetVariableValueAsync method" Url="html/Overload_Particle_ParticleDevice_GetVariableValueAsync.htm" />
   <HelpKINode Title="ParticleDevice.Id property" Url="html/P_Particle_ParticleDevice_Id.htm" />
+  <HelpKINode Title="ParticleDevice.IMEI property" Url="html/P_Particle_ParticleDevice_IMEI.htm" />
   <HelpKINode Title="ParticleDevice.IsRefreshing property" Url="html/P_Particle_ParticleDevice_IsRefreshing.htm" />
   <HelpKINode Title="ParticleDevice.LastApp property" Url="html/P_Particle_ParticleDevice_LastApp.htm" />
   <HelpKINode Title="ParticleDevice.LastHeard property" Url="html/P_Particle_ParticleDevice_LastHeard.htm" />
+  <HelpKINode Title="ParticleDevice.LastICCID property" Url="html/P_Particle_ParticleDevice_LastICCID.htm" />
   <HelpKINode Title="ParticleDevice.LastIPAddress property" Url="html/P_Particle_ParticleDevice_LastIPAddress.htm" />
   <HelpKINode Title="ParticleDevice.Name property" Url="html/P_Particle_ParticleDevice_Name.htm" />
   <HelpKINode Title="ParticleDevice.ParseFunctions method" Url="html/M_Particle_ParticleDevice_ParseFunctions.htm" />
   <HelpKINode Title="ParticleDevice.ParseObject method" Url="html/M_Particle_ParticleDevice_ParseObject.htm" />
   <HelpKINode Title="ParticleDevice.ParseVariables method" Url="html/M_Particle_ParticleDevice_ParseVariables.htm" />
   <HelpKINode Title="ParticleDevice.ParticleDevice constructor" Url="html/M_Particle_ParticleDevice__ctor.htm" />
+  <HelpKINode Title="ParticleDevice.PlatformId property" Url="html/P_Particle_ParticleDevice_PlatformId.htm" />
   <HelpKINode Title="ParticleDevice.RefreshAsync method" Url="html/M_Particle_ParticleDevice_RefreshAsync.htm" />
   <HelpKINode Title="ParticleDevice.RenameAsync method" Url="html/M_Particle_ParticleDevice_RenameAsync.htm" />
+  <HelpKINode Title="ParticleDevice.Status property" Url="html/P_Particle_ParticleDevice_Status.htm" />
   <HelpKINode Title="ParticleDevice.UnclaimAsync method" Url="html/M_Particle_ParticleDevice_UnclaimAsync.htm" />
   <HelpKINode Title="ParticleDevice.Variables property" Url="html/P_Particle_ParticleDevice_Variables.htm" />
   <HelpKINode Title="ParticleDeviceType enumeration" Url="html/T_Particle_ParticleDeviceType.htm" />
+  <HelpKINode Title="ParticleEventData class">
+    <HelpKINode Title="ParticleEventData Class" Url="html/T_Particle_ParticleEventData.htm" />
+    <HelpKINode Title="about ParticleEventData class" Url="html/T_Particle_ParticleEventData.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Particle_ParticleEventData__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Particle_ParticleEventData.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Particle_ParticleEventData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ParticleEventData.CoreId property" Url="html/P_Particle_ParticleEventData_CoreId.htm" />
+  <HelpKINode Title="ParticleEventData.Data property" Url="html/P_Particle_ParticleEventData_Data.htm" />
+  <HelpKINode Title="ParticleEventData.ParticleEventData constructor" Url="html/M_Particle_ParticleEventData__ctor.htm" />
+  <HelpKINode Title="ParticleEventData.PublishedAt property" Url="html/P_Particle_ParticleEventData_PublishedAt.htm" />
+  <HelpKINode Title="ParticleEventData.TimeToLive property" Url="html/P_Particle_ParticleEventData_TimeToLive.htm" />
+  <HelpKINode Title="ParticleEventData.ToString method" Url="html/M_Particle_ParticleEventData_ToString.htm" />
+  <HelpKINode Title="ParticleEventManager class">
+    <HelpKINode Title="ParticleEventManager Class" Url="html/T_Particle_ParticleEventManager.htm" />
+    <HelpKINode Title="about ParticleEventManager class" Url="html/T_Particle_ParticleEventManager.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Particle_ParticleEventManager__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Particle_ParticleEventManager.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Particle_ParticleEventManager.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Particle_ParticleEventManager.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Particle_ParticleEventManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ParticleEventManager.Closed event" Url="html/E_Particle_ParticleEventManager_Closed.htm" />
+  <HelpKINode Title="ParticleEventManager.Connected event" Url="html/E_Particle_ParticleEventManager_Connected.htm" />
+  <HelpKINode Title="ParticleEventManager.ConnectToClient method" Url="html/M_Particle_ParticleEventManager_ConnectToClient.htm" />
+  <HelpKINode Title="ParticleEventManager.Error event" Url="html/E_Particle_ParticleEventManager_Error.htm" />
+  <HelpKINode Title="ParticleEventManager.Events event" Url="html/E_Particle_ParticleEventManager_Events.htm" />
+  <HelpKINode Title="ParticleEventManager.fireEvent method" Url="html/M_Particle_ParticleEventManager_fireEvent.htm" />
+  <HelpKINode Title="ParticleEventManager.IsRunning property" Url="html/P_Particle_ParticleEventManager_IsRunning.htm" />
+  <HelpKINode Title="ParticleEventManager.ListensToStreamAsync method" Url="html/M_Particle_ParticleEventManager_ListensToStreamAsync.htm" />
+  <HelpKINode Title="ParticleEventManager.ParticleEventManager constructor" Url="html/Overload_Particle_ParticleEventManager__ctor.htm" />
+  <HelpKINode Title="ParticleEventManager.ReadTimeout property" Url="html/P_Particle_ParticleEventManager_ReadTimeout.htm" />
+  <HelpKINode Title="ParticleEventManager.ReconnectDelay property" Url="html/P_Particle_ParticleEventManager_ReconnectDelay.htm" />
+  <HelpKINode Title="ParticleEventManager.Reconnected event" Url="html/E_Particle_ParticleEventManager_Reconnected.htm" />
+  <HelpKINode Title="ParticleEventManager.Reconnecting event" Url="html/E_Particle_ParticleEventManager_Reconnecting.htm" />
+  <HelpKINode Title="ParticleEventManager.Start method" Url="html/M_Particle_ParticleEventManager_Start.htm" />
+  <HelpKINode Title="ParticleEventManager.Stop method" Url="html/M_Particle_ParticleEventManager_Stop.htm" />
+  <HelpKINode Title="ParticleEventManager._stop field" Url="html/F_Particle_ParticleEventManager__stop.htm" />
   <HelpKINode Title="ParticleException class">
     <HelpKINode Title="ParticleException Class" Url="html/T_Particle_ParticleException.htm" />
     <HelpKINode Title="about ParticleException class" Url="html/T_Particle_ParticleException.htm" />
@@ -164,7 +236,13 @@
   <HelpKINode Title="ParticleException.ParticleException constructor" Url="html/Overload_Particle_ParticleException__ctor.htm" />
   <HelpKINode Title="ParticleException.Status property" Url="html/P_Particle_ParticleException_Status.htm" />
   <HelpKINode Title="Photon enumeration member" Url="html/T_Particle_ParticleDeviceType.htm" />
+  <HelpKINode Title="PlatformId property" Url="html/P_Particle_ParticleDevice_PlatformId.htm" />
   <HelpKINode Title="PropertyChanged event" Url="html/E_Particle_ParticleBase_PropertyChanged.htm" />
+  <HelpKINode Title="PublishedAt property" Url="html/P_Particle_ParticleEventData_PublishedAt.htm" />
+  <HelpKINode Title="ReadTimeout property" Url="html/P_Particle_ParticleEventManager_ReadTimeout.htm" />
+  <HelpKINode Title="ReconnectDelay property" Url="html/P_Particle_ParticleEventManager_ReconnectDelay.htm" />
+  <HelpKINode Title="Reconnected event" Url="html/E_Particle_ParticleEventManager_Reconnected.htm" />
+  <HelpKINode Title="Reconnecting event" Url="html/E_Particle_ParticleEventManager_Reconnecting.htm" />
   <HelpKINode Title="RefreshAsync method" Url="html/M_Particle_ParticleDevice_RefreshAsync.htm" />
   <HelpKINode Title="RefreshTokenAsync method" Url="html/M_Particle_ParticleCloud_RefreshTokenAsync.htm" />
   <HelpKINode Title="RefreshValueAsync method" Url="html/M_Particle_Variable_RefreshValueAsync.htm" />
@@ -221,14 +299,19 @@
   <HelpKINode Title="SetProperty(Of T) method" Url="html/M_Particle_ParticleBase_SetProperty__1.htm" />
   <HelpKINode Title="SetProperty&lt;T&gt; method" Url="html/M_Particle_ParticleBase_SetProperty__1.htm" />
   <HelpKINode Title="SignupWithUserAsync method" Url="html/M_Particle_ParticleCloud_SignupWithUserAsync.htm" />
+  <HelpKINode Title="Start method" Url="html/M_Particle_ParticleEventManager_Start.htm" />
   <HelpKINode Title="Status property">
+    <HelpKINode Title="ParticleDevice.Status Property " Url="html/P_Particle_ParticleDevice_Status.htm" />
     <HelpKINode Title="ParticleException.Status Property " Url="html/P_Particle_ParticleException_Status.htm" />
     <HelpKINode Title="Result.Status Property " Url="html/P_Particle_Result_Status.htm" />
   </HelpKINode>
   <HelpKINode Title="StatusCode property" Url="html/P_Particle_RequestResponse_StatusCode.htm" />
+  <HelpKINode Title="Stop method" Url="html/M_Particle_ParticleEventManager_Stop.htm" />
   <HelpKINode Title="String enumeration member" Url="html/T_Particle_VariableType.htm" />
   <HelpKINode Title="Success property" Url="html/P_Particle_Result_Success.htm" />
   <HelpKINode Title="SyncContext property" Url="html/P_Particle_ParticleCloud_SyncContext.htm" />
+  <HelpKINode Title="TimeToLive property" Url="html/P_Particle_ParticleEventData_TimeToLive.htm" />
+  <HelpKINode Title="ToString method" Url="html/M_Particle_ParticleEventData_ToString.htm" />
   <HelpKINode Title="Type property" Url="html/P_Particle_Variable_Type.htm" />
   <HelpKINode Title="UnclaimAsync method" Url="html/M_Particle_ParticleDevice_UnclaimAsync.htm" />
   <HelpKINode Title="Value property" Url="html/P_Particle_Variable_Value.htm" />
@@ -247,4 +330,16 @@
   <HelpKINode Title="Variable.Variable constructor" Url="html/M_Particle_Variable__ctor.htm" />
   <HelpKINode Title="Variables property" Url="html/P_Particle_ParticleDevice_Variables.htm" />
   <HelpKINode Title="VariableType enumeration" Url="html/T_Particle_VariableType.htm" />
+  <HelpKINode Title="WebEventArgs class">
+    <HelpKINode Title="WebEventArgs Class" Url="html/T_Particle_WebEventArgs.htm" />
+    <HelpKINode Title="about WebEventArgs class" Url="html/T_Particle_WebEventArgs.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Particle_WebEventArgs__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Particle_WebEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Particle_WebEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebEventArgs.Data property" Url="html/P_Particle_WebEventArgs_Data.htm" />
+  <HelpKINode Title="WebEventArgs.Event property" Url="html/P_Particle_WebEventArgs_Event.htm" />
+  <HelpKINode Title="WebEventArgs.WebEventArgs constructor" Url="html/M_Particle_WebEventArgs__ctor.htm" />
+  <HelpKINode Title="YourEventUri property" Url="html/P_Particle_ParticleCloud_YourEventUri.htm" />
+  <HelpKINode Title="_stop field" Url="html/F_Particle_ParticleEventManager__stop.htm" />
 </HelpKI>
